@@ -36,3 +36,24 @@
 .catagorise img{
     width: 100px;
 }
+.price{
+    color:#ff136f ;
+}
+.card{
+    box-shadow: -2px 5px 10px gray;
+}
+.card-footer{
+    border-top: none;
+}
+.bgc{
+    background-color:lightgray;
+   
+}
+.form{
+    padding:20px;
+   height: 200px;
+  
+}
+footer{
+    text-align: center;
+}
